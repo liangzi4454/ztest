@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("测试git和gitHub");
 		System.out.println("OK");
 		System.out.println("123");
+		System.out.println("OK");
 	}
 }
